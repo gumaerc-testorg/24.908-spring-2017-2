@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Rooted in the Personal: Students\u2019 Questions about Identity (Creole)"
 uid: b94081ad-36fc-baa4-f724-dae2ccc63b9c

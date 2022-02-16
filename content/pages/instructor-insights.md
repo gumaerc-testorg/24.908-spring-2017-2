@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: ad2b27f5-60b9-e1db-df23-5c6bce654b0c
 ---
@@ -77,20 +79,6 @@ None
 ### Offered
 
 Offered periodically
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Small classroom with whiteboard lined walls and a single table in the center lined with chairs.]({{< resource_file 2af89c93-ccff-2cef-adf0-cad315329cab >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Seminars were held in a classroom equipped with whiteboards, an A/V system, and a table for discussions.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
