@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 88051888-2277-785f-0108-2a172ae43e4c
 resourcetype: Document
 title: 'MIT 24.908 S17: Essay grading rubric'
 uid: 61347285-5dee-b6a1-7ec8-1c0fea910f04

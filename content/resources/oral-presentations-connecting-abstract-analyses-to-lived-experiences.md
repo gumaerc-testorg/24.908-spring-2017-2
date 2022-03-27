@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: ThisCourseAtMITSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Oral Presentations: Connecting Abstract Analyses to Lived Experiences'
 uid: 36b1e9e2-e63b-64e3-b6b7-936a98d93059
 video_files:

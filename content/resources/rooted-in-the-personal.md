@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: ThisCourseAtMITSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Rooted in the Personal: Students\u2019 Questions about Identity"
 uid: b6486e19-fa97-4a02-0af2-e8a6e67a4f4f
 video_files:

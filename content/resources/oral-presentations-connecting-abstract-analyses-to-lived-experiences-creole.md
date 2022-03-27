@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: ThisCourseAtMITSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Oral Presentations: Connecting Abstract Analyses to Lived Experiences (Creole)'
 uid: d6dd0a18-84c2-ffa8-e518-d082684979b8
 video_files:

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: ad2b27f5-60b9-e1db-df23-5c6bce654b0c
 resourcetype: Image
 title: Michel.jpeg
 uid: a6332a91-0b32-1ef8-906f-c8929fdb4c89

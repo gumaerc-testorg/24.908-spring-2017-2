@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Presentations
 parent_type: CourseSection
+parent_uid: afb8a8a2-b5d5-ec1d-0f50-2064c05a416c
 resourcetype: Document
 title: Colonialism and Neocolonialism
 uid: 064444aa-05c7-0df9-1800-f100184e30ca
