@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This page presents video of an exemplary class session, showing the class
+  instruction, student discussion. and an example of a student presentation.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
@@ -22,7 +24,7 @@ videos:
   website: 24-908-creole-languages-and-caribbean-identities-spring-2017
 ---
 
-This page presents video of the final class session, on the topic "Technology, language and new modes of story telling—a new "Creole" world the world over?" It highlights instruction by Professor DeGraff, substantial student dicussion, and a [student presentation]({{< baseurl >}}/pages/student-presentations) on readings "Discourses of Power."
+This page presents video of the final class session, on the topic "Technology, language and new modes of story telling—a new "Creole" world the world over?" It highlights instruction by Professor DeGraff, substantial student dicussion, and a {{% resource_link afb8a8a2-b5d5-ec1d-0f50-2064c05a416c "student presentation" %}} on readings "Discourses of Power."
 
 {{< video-gallery "eaffc1ea-1beb-a142-e49a-d7b7dfbb3d73" >}}
 

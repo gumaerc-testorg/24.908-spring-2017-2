@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/24-908-creole-languages-and-caribbean-identities-spring-2017/16edfdfbae9c32948f1a178ac3a28af9_less-than-10.png
+file: /courses/24-908-creole-languages-and-caribbean-identities-spring-2017/16edfdfbae9c32948f1a178ac3a28af9_less-than-10.png
 file_type: image/png
 image_metadata:
   caption: ''

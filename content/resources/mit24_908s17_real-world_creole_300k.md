@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/24-908-creole-languages-and-caribbean-identities-spring-2017/cf250e53df20b436b473509632c527d2_MIT24_908S17_Real-World_Creole_300k.pdf
+file: /courses/24-908-creole-languages-and-caribbean-identities-spring-2017/cf250e53df20b436b473509632c527d2_MIT24_908S17_Real-World_Creole_300k.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
