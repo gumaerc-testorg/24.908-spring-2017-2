@@ -9,10 +9,10 @@ image_metadata:
   credit: This image is in the public domain.
   image-alt: Toussaint Louverture holding a document
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Toussaint Louverture
 uid: 759d9f2d-fa74-c64d-e617-42cd1a4da538
 ---
 Painting of Toussaint Louverture
-
