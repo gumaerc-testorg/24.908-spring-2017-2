@@ -2,6 +2,7 @@
 content_type: video_gallery
 description: This page presents video of an exemplary class session, showing the class
   instruction, student discussion. and an example of a student presentation.
+draft: false
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
@@ -21,10 +22,10 @@ videos:
   - f1870413-c1d5-55ed-5ad9-194a3cf5160d
   - 394efdb9-4058-c1de-7b8a-062505ff1328
   - aeef058b-9b45-0053-b926-379405f47a82
+  - 63138ed7-23bd-41e0-a930-895b8b5c6af1
+  - 821ca12a-ef6b-4578-92f5-1668154e4824
   website: 24-908-creole-languages-and-caribbean-identities-spring-2017
 ---
-
-This page presents video of the final class session, on the topic "Technology, language and new modes of story telling—a new "Creole" world the world over?" It highlights instruction by Professor DeGraff, substantial student dicussion, and a {{% resource_link afb8a8a2-b5d5-ec1d-0f50-2064c05a416c "student presentation" %}} on readings "Discourses of Power."
+This page presents video of the final class session, on the topic "Technology, language and new modes of story telling—a new "Creole" world the world over?" It highlights instruction by Professor DeGraff, substantial student dicussion, and a {{% resource_link "afb8a8a2-b5d5-ec1d-0f50-2064c05a416c" "student presentation" %}} on readings "Discourses of Power." As a bonus, it includes two videos from a guest lecture delivered by Prof. Jean Casimir in the Spring 2022 iteration of the course.
 
 {{< video-gallery "eaffc1ea-1beb-a142-e49a-d7b7dfbb3d73" >}}
-
