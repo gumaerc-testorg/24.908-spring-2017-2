@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Guest Lecture (2022): Unmaking and Remaking Community (part 1)'
+title: 'Guest lecture (2022): Unmaking and remaking community (part 1)'
 uid: 63138ed7-23bd-41e0-a930-895b8b5c6af1
 video_files:
   video_captions_file: /courses/24-908-creole-languages-and-caribbean-identities-spring-2017/15WVVTBTj4VleBSmb2KkDfLMpZ6TG4mlD_transcript.webvtt

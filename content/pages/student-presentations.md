@@ -5,7 +5,7 @@ description: This page contains a selection of student presentations from 24.908
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
-title: Guest Lecture and Student Presentations
+title: Student Presentations
 uid: afb8a8a2-b5d5-ec1d-0f50-2064c05a416c
 ---
 At each class meeting for a total of 13 sessions, a team of students will be responsible for preparing a brief presentation on the readings, consisting of a background that will frame our discussion with one question per student about how the readings assigned for that particular day approach the aforementioned "big questions" at the center of our class. 
