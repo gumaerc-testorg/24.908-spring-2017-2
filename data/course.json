@@ -39,8 +39,10 @@
   "learning_resource_types": [
     "Lecture Videos",
     "Written Assignments",
-    "Presentation Assignments with Examples"
+    "Presentation Assignments with Examples",
+    "Instructor Insights"
   ],
-  "site_uid": "2da4fd01-dd66-45f4-a58a-ef1e20a315e1",
+  "site_uid": "41e30dea-e361-4ee8-afb3-21db484b1ded",
+  "site_short_id": "24.908-spring-2017-2",
   "title": "Course Metadata"
 }
