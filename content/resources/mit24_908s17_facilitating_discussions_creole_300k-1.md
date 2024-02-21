@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-908-creole-languages-and-caribbean-identities-spring-2017/71a30425dd30acd2d9fe60022f250aaf_MIT24_908S17_Facilitating_Discussions_Creole_300k.pdf
+file_size: 96784
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

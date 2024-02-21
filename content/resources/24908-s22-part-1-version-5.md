@@ -2,7 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/24-908-creole-language-and-caribbean-identities-spring-2017/24908-s22-part-1-version-5_360p_16_9.mp4
+file: /courses/24-908-creole-languages-and-caribbean-identities-spring-2017/24908-s22-part-1-version-5_360p_16_9.mp4
+file_size: 125620539
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -15,6 +16,7 @@ resourcetype: Video
 title: 'Guest lecture (2022): Unmaking and remaking community (part 1)'
 uid: 63138ed7-23bd-41e0-a930-895b8b5c6af1
 video_files:
+  archive_url: http://ia802800.us.archive.org/19/items/MIT24.908S17/MIT24_908S22_Part_1_300k.mp4
   video_captions_file: /courses/24-908-creole-languages-and-caribbean-identities-spring-2017/15WVVTBTj4VleBSmb2KkDfLMpZ6TG4mlD_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/qU8Wi_KHH1E/default.jpg
   video_transcript_file: /courses/24-908-creole-languages-and-caribbean-identities-spring-2017/15WVVTBTj4VleBSmb2KkDfLMpZ6TG4mlD_transcript.pdf
