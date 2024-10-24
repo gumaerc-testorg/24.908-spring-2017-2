@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/24-908-creole-languages-and-caribbean-identities-spring-2017/613472855deeb6a17ec81c0fea910f04_MIT24_908s17_assn_rubric.pdf
+file: /ol-ocw-studio-app/courses/24-908-creole-languages-and-caribbean-identities-spring-2017/613472855deeb6a17ec81c0fea910f04_MIT24_908s17_assn_rubric.pdf
 file_size: 142894
 file_type: application/pdf
 learning_resource_types:
