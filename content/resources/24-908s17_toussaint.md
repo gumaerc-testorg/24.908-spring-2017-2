@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Painting of Toussaint Louverture
-file: /ol-ocw-studio-app/courses/24-908-creole-languages-and-caribbean-identities-spring-2017/759d9f2dfa74c64de61742cd1a4da538_24-908s17_toussaint.jpg
+file: /courses/24-908-creole-languages-and-caribbean-identities-spring-2017/759d9f2dfa74c64de61742cd1a4da538_24-908s17_toussaint.jpg
 file_size: 188102
 file_type: image/jpeg
 image_metadata:
