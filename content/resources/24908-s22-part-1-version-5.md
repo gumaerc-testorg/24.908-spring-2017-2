@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/24-908-creole-languages-and-caribbean-identities-spring-2017/24908-s22-part-1-version-5_360p_16_9.mp4
+file: courses/24-908-creole-languages-and-caribbean-identities-spring-2017/24908-s22-part-1-version-5_360p_16_9.mp4
 file_size: 125620539
 file_type: video/mp4
 image_metadata:
