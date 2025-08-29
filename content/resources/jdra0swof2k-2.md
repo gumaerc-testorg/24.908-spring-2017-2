@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/24-908-creole-languages-and-caribbean-identities-spring-2017/28fe0d743cd855e6b1fe1b2928e329d6_JDRa0SwOf2k.vtt
+file: /ol-ocw-studio-app/courses/24-908-creole-languages-and-caribbean-identities-spring-2017/28fe0d743cd855e6b1fe1b2928e329d6_JDRa0SwOf2k.vtt
 file_size: 22980
 file_type: application/x-subrip
 learning_resource_types: []

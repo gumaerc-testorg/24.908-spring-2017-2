@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/24-908-creole-languages-and-caribbean-identities-spring-2017/1de5a60322bd2400dde8bdd2e8a3f744_Michel-comp.jpg
+file: /ol-ocw-studio-app/courses/24-908-creole-languages-and-caribbean-identities-spring-2017/1de5a60322bd2400dde8bdd2e8a3f744_Michel-comp.jpg
 file_size: 16854
 file_type: image/jpeg
 image_metadata:
