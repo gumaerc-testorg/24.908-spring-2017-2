@@ -38,9 +38,8 @@ View in Creole:
 - {{% resource_link "f6f0840a-2ae1-c8e9-6ff6-ed86cacfc430" "Sèvi ak sondaj pami etidyan yo pou n byen kadre ansèyman an selon pwofil etidyan yo (Using Student Surveys to Customize Teaching)" %}}
 - {{% resource_link "cb9343c4-3085-816e-225b-f3d10b105f79" "Enpak aprantisaj la nan lavi tou lè jou etidyan yo (Real-World Learning Outcomes)" %}}
 
-{{< simplecast "d7e071c8-9c17-4a16-ad35-5ae2b1d02e4e" >}}
-
-{{< simplecast "8e79e47a-1e69-4140-90ce-08286d0ccb10" >}}
+{{< resource uuid="e48b61c6-683e-40c5-83b6-927a429b9187" >}}
+{{< resource uuid="527e8bc7-57c2-4cc6-90a0-a3102e55c828" >}}
 
 ## Student Insights
 
